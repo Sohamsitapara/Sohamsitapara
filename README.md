@@ -1,14 +1,45 @@
+# 💫 About Me
+Hey there! I'm **Soham Sitapara**, a passionate Computer Science student who thrives on tackling complex challenges and crafting innovative, real-world solutions.
 
-# 💫 About Me:
-🔭I am a dedicated Computer Science student with a strong passion and love for solving complex problems and developing innovative solutions. I have hands-on experience in Python, Django and RESTful APIs, along with SQL as well as NoSQL tools, where I focus on building scalable and efficient systems.<br>👨🏼‍💻Additionally, I have experience with Android app development using Flutter, crafting high-performance cross-platform solutions primarily focusing on business management and finances.<br>🔰I also have strong research interests mainly in the field of Algorithms, Discrete Mathematics (Number Theory) and Linear Algebra.<br>🤝I'm looking forward to contributing to open-source projects as well as working on team projects to build up something incredible!<br>💎A unique fact about me is that I have that extra hunger to explore and apply new tech to solve real-life problems.
+- 🔍 I'm deeply invested in **problem-solving**, whether it’s through algorithms or designing a system.
+- 💻 Experienced with **Python**, **Django**, **RESTful APIs**, **SQL/NoSQL**, and crafting scalable backends.
+- 📱 I build high-performance cross-platform apps with **Flutter**, focusing on **business and finance tools**.
+- 📚 Fascinated by **Algorithms**, **Number Theory**, and **Linear Algebra** — always diving deeper into the math behind computing.
+- 🚀 Always ready to explore cutting-edge tech and push the boundaries of what's possible.
+- 💡 Fun Fact: I’ve got that *extra spark* — a relentless curiosity to build things that matter.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_sohammmm)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Notghost_who) 
+---
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/its_sohammmm)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Notghost_who)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sohamsitapara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sohamsitapara&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamsitapara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart,html,css" />
+</p>
+
+### 🌐 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flutter,flask,fastapi,opencv,firebase,mysql,postgres,docker,kubernetes,git,linux,postman,numpy,pandas,matplotlib,canva" />
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohamsitapara&show_icons=true&theme=tokyonight&hide_border=false" alt="Soham's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamsitapara&theme=tokyonight&hide_border=false" alt="Soham's GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamsitapara&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
+</p>
+
+> _“Code is not just syntax — it’s your logic, soul, and intent expressed digitally.”_
+
+Thanks for stopping by! Let’s connect, build, and innovate together. 🚀
