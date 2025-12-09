@@ -18,7 +18,7 @@ Hey! I'm **Soham Sitapara**, a techie who enjoys designing systems that *actuall
 - 💻 Comfortable across **Python/Django and C++ backends** and **Flutter frontends**  
 - 🚀 Always exploring new tech, patterns, and better ways to build things  
 
-> _“Code isn’t just syntax — it’s structured curiosity.”_
+> _“Innovation begins with a question.”_
 
 ---
 
@@ -62,8 +62,11 @@ Hey! I'm **Soham Sitapara**, a techie who enjoys designing systems that *actuall
 
 ### 📊 Data & Analytics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=5" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-005C8C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 
 ---
 
@@ -77,11 +80,6 @@ Hey! I'm **Soham Sitapara**, a techie who enjoys designing systems that *actuall
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohamsitapara&show_icons=true&theme=tokyonight&hide_border=true" alt="Soham's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamsitapara&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Sohamsitapara&theme=tokyonight&hide_border=true" alt="GitHub streak" />
